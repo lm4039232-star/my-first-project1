@@ -1,0 +1,6 @@
+
+Hello GitHub!
+
+My name is Lito.
+I am learning Software Engineering.
+This is my first GitHub project.
